@@ -12,7 +12,7 @@ Spangler sends automated SMS notifications including daily briefing summaries, s
 
 ## Message Frequency
 
-Approximately 2–5 messages per day. Message frequency may vary based on system events and alerts.
+Message volume varies based on usage. Typical range is 5–100 messages per day, including automated alerts and interactive two-way conversations with the system. Volume may be higher during periods of active use.
 
 ## Message and Data Rates
 
