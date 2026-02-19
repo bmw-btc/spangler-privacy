@@ -1,31 +1,34 @@
 # Terms and Conditions — Spangler Messaging Service
 
-**Last Updated:** February 8, 2026
+**Operated by Brock Capital LLC**
+**Last Updated:** February 19, 2026
 
 ## Program Name
 
-Spangler Messaging Service
+Spangler Messaging Service, operated by Brock Capital LLC
 
 ## Description
 
-Spangler sends automated SMS notifications including daily briefing summaries, system status updates, escalation alerts, and health monitoring alerts. Messages are sent to the system owner only.
+Spangler Messaging Service sends automated SMS notifications including daily briefing summaries, system status updates, escalation alerts, and health monitoring alerts. Messages are sent to the system owner only.
 
 ## Message Frequency
 
-Message volume varies based on usage. Typical range is 5–100 messages per day, including automated alerts and interactive two-way conversations with the system. Volume may be higher during periods of active use.
+Message frequency varies based on usage. Expect approximately 5–100 messages per day depending on system activity and interactive use. Volume may be higher during periods of active use.
 
 ## Message and Data Rates
 
-Standard message and data rates may apply per your mobile carrier's plan.
+Message and data rates may apply. Contact your mobile carrier for details.
 
 ## Opt-Out
 
-Reply **STOP** at any time to stop receiving messages. Reply **HELP** for support information.
+Text **STOP** to +1 (256) 937-1026 at any time to stop receiving messages. You will receive a confirmation message and no further messages will be sent.
 
-## Support
+## Help
 
-For help, reply **HELP** to any message or visit [github.com/bmw-btc](https://github.com/bmw-btc).
+Text **HELP** to +1 (256) 937-1026 for support information.
 
 ## Contact
 
-System owner: [github.com/bmw-btc](https://github.com/bmw-btc)
+Brock Capital LLC
+Email: brock@brock.capital
+Web: [github.com/bmw-btc](https://github.com/bmw-btc)

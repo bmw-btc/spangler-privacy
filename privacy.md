@@ -1,10 +1,11 @@
 # Privacy Policy — Spangler Messaging Service
 
-**Last Updated:** February 8, 2026
+**Operated by Brock Capital LLC**
+**Last Updated:** February 19, 2026
 
 ## Overview
 
-Spangler is a personal productivity system that sends automated SMS notifications (status updates, daily briefing summaries, and system health alerts) to a single recipient: the system owner and administrator.
+Spangler Messaging Service is a personal productivity system operated by Brock Capital LLC. It sends automated SMS notifications (status updates, daily briefing summaries, and system health alerts) to a single recipient: the system owner and administrator.
 
 ## Data Collection
 
@@ -18,10 +19,16 @@ No data is shared with third parties. No marketing messages are sent. No user da
 
 Messages consist of automated system status updates, daily productivity briefings, escalation alerts, and health monitoring notifications. All messages are purely informational and operational.
 
+## Message Frequency
+
+Message frequency varies based on usage. Expect approximately 5–100 messages per day depending on system activity and interactive use.
+
 ## Opt-Out
 
-The sole recipient may stop receiving messages at any time by replying STOP or by removing their phone number from the system configuration.
+Text **STOP** to +1 (256) 937-1026 at any time to stop receiving messages. Text **HELP** for support information.
 
 ## Contact
 
-For questions about this policy, contact the system owner via the GitHub repository: [github.com/bmw-btc](https://github.com/bmw-btc)
+Brock Capital LLC
+Email: brock@brock.capital
+Web: [github.com/bmw-btc](https://github.com/bmw-btc)

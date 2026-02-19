@@ -1,28 +1,38 @@
-# Spangler Messaging Service — Opt-In
+# Spangler Messaging Service — SMS Opt-In
 
-## Subscribe to Notifications
+## Consent to Receive SMS Messages
 
-By entering your phone number in the Spangler system configuration, you consent to receive the following types of SMS messages:
+By providing your phone number and texting START to +1 (256) 937-1026, you agree to receive recurring automated SMS messages from **Spangler Messaging Service**, operated by **Brock Capital LLC**.
 
-- **Daily Briefings:** Morning and evening productivity summaries
-- **System Alerts:** Health monitoring and escalation notifications  
-- **Status Updates:** Responses to your SMS commands
-- **Conversational Replies:** Responses to interactive queries
+### What You'll Receive
+- Daily briefing summaries (morning and evening)
+- System status updates and health alerts
+- Escalation notifications requiring action
+- Replies to your interactive SMS commands
 
 ### Message Frequency
-Message volume varies based on usage. Typical range is 5–100 messages per day, including automated alerts and interactive two-way conversations.
-
-### Opt-Out
-Reply **STOP** to any message to unsubscribe. Reply **HELP** for support.
+Message frequency varies. Expect approximately 5–100 messages per day depending on usage and system activity.
 
 ### Message and Data Rates
-Standard message and data rates may apply.
+Message and data rates may apply. Contact your mobile carrier for details.
 
-### Privacy
-See our [Privacy Policy](https://github.com/bmw-btc/spangler-privacy/blob/main/privacy.md).
+### Opt-Out
+Text **STOP** to +1 (256) 937-1026 at any time to stop all messages. You will receive a confirmation message and no further messages will be sent.
 
-### Terms
-See our [Terms and Conditions](https://github.com/bmw-btc/spangler-privacy/blob/main/terms.md).
+### Help
+Text **HELP** to +1 (256) 937-1026 for support information.
+
+### Privacy Policy
+[View Privacy Policy](https://github.com/bmw-btc/spangler-privacy/blob/main/privacy.md)
+
+### Terms and Conditions
+[View Terms and Conditions](https://github.com/bmw-btc/spangler-privacy/blob/main/terms.md)
 
 ### Contact
-For support, reply **HELP** to any message or visit [github.com/bmw-btc](https://github.com/bmw-btc).
+Brock Capital LLC
+Email: brock@brock.capital
+Web: [github.com/bmw-btc](https://github.com/bmw-btc)
+
+---
+
+*By texting START to +1 (256) 937-1026, you consent to receive recurring automated text messages from Spangler Messaging Service at the number you provide. Consent is not a condition of purchase. Message and data rates may apply. Text STOP to cancel, HELP for help.*
